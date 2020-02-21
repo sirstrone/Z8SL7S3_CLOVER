@@ -1,4 +1,4 @@
-# Z8SL7S3_CLOVER
+# 神舟Z8SL7S3_CLOVER
 
 base on:Z8SL7S3+MacOS 15.3
 
