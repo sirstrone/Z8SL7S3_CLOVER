@@ -1,6 +1,6 @@
 # 神舟Z8SL7S3_CLOVER
 
-Base On:Z8SL7S3+MacOS 10.15.3
+Based On:Z8SL7S3+MacOS 10.15.3
 
 理论上神舟SL7系均可使用
 
